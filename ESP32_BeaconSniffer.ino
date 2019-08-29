@@ -3,7 +3,7 @@
 // by Michele <o-zone@zerozone.it> Pinassi
 // https://github.com/michelep/ESP32_BeaconSniffer
 //
-// Adapted from https://github.com/ESP-EOS/ESP32-WiFi-Sniffer to work on ESP32 TTGO with OLED display SSD1306 I2C 
+// Sighly based on https://github.com/ESP-EOS/ESP32-WiFi-Sniffer, code written to work on ESP32 TTGO with OLED display SSD1306 I2C 
 //
 // Build with TTGO-LoRa32-OLED V1 Arduino template
 // 
